@@ -1,0 +1,1 @@
+Demonstration of https://github.com/ConsenSys/truffle/issues/192

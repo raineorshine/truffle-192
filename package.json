@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "truffle-192",
+  "description:": "Demonstration of https://github.com/ConsenSys/truffle/issues/192",
+  "author": {
+    "name": "Raine Revere",
+    "email": "raineorshine@gmail.com",
+    "url": "https://github.com/raineorshine"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "ether-pudding": "^2.0.9"
+  }
+}
